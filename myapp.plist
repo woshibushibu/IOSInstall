@@ -9,7 +9,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>192.168.1.254:42545/x5/$v3871_1_0_$lzh_CN$sdesktop$d/UI2/system/deploy/package/download.j?platform=ios&&appName=MIHOH</string>
+<string>http://192.168.1.254:42545/x5/$v3871_1_0_$lzh_CN$sdesktop$d/UI2/system/deploy/package/download.j?platform=ios&&appName=MIHOH</string>
 </dict>
 <dict>
 <key>kind</key>
